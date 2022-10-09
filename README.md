@@ -2,6 +2,14 @@
 We Create a Fully Functional Website Under HactoberFest
 
 ## **Getting Started**
+<h1 align="center">Start Contributing </h1>
+<br>
+
+<div align="center">
+  
+ ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+  
+</div>
 
 For the quick start, you can follow the steps below:
 
