@@ -5,8 +5,8 @@ We Create a Fully Functional Website Under HactoberFest
 
 For the quick start, you can follow the steps below:
 
-1. Star <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/edit/main/README.md">this</a> repository.
-2. Fork <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/edit/main/README.md">this</a> repository.
+1. Star <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/">this</a> repository.
+2. Fork <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/">this</a> repository.
 3. Clone the **forked** repository.
 
 ```yml
@@ -15,7 +15,7 @@ git clone https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/ed
 3. Navigate to the project directory.
 
 ```yml
-cd Shorted-HactoberFest_Fully-Functional-Website 
+cd HactoberFest_Fully-Functional-Website 
 ```
 
 4. Create a new branch.
@@ -55,12 +55,10 @@ git push -u origin <your_branch_name>
 - Create Folder with `Your Name`
 - In Your Flolder Name Create a file `.html` and `.css` and `README.md` create a profile-tamplete
 - Take screenshort of Your Profile-Tamplete and add into your `README.md` file.
-- If you want to demo <a href="https://github.com/mitalrs/Short-Profile-With-HTML-CSS/tree/main/MitalSapkale" title="see the repo">profile-tamplete</a>
+- If you want to demo <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/" title="see the repo">profile-tamplete</a>
 - Also add your name into <a href="/CONTRIBUTING.md">CONTRIBUTING.md</a>
 
 ##### Note: do not change any folder except your folder!!
 
-<a href="https://github.com/mitalrs/Short-Profile-With-HTML-CSS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mitalrs/Short-Profile-With-HTML-CSS" />
-</a>
+
 
