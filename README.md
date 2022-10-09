@@ -55,7 +55,7 @@ git push -u origin <your_branch_name>
 - Create Folder with `Your Name`
 - In Your Flolder Name Create a file `.html` and `.css` and `README.md` create a profile-tamplete
 - Take screenshort of Your Profile-Tamplete and add into your `README.md` file.
-- If you want to demo <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/" title="see the repo">profile-tamplete</a>
+- If you want to demo <a href="https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/" title="see the repo">HactoberFest_Fully-Functional-Website</a>
 - Also add your name into <a href="/Contributors.md">Contributors.md</a>
 
 ##### Note: do not change any folder except your folder!!
