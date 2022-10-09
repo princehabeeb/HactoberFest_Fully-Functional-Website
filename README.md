@@ -10,7 +10,7 @@ For the quick start, you can follow the steps below:
 3. Clone the **forked** repository.
 
 ```yml
-git clone https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/edit/main/README.md
+git clone https://github.com/mnamesujit/HactoberFest_Fully-Functional-Website/
 ```
 3. Navigate to the project directory.
 
