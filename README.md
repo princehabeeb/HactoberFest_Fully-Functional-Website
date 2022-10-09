@@ -40,7 +40,7 @@ Run the following command to install the required dependencies.
 1. Create your profile as u wish using HTML-CSS
 2. Example:
     
-    <img src="https://img.freepik.com/free-vector/modern-landing-page-with-abstract-design_23-2147999234.jpg?w=740&t=st=1665344309~exp=1665344909~hmac=aeda8ee35b5262180fedac413af09a3494cb8d358da637b30b846f1dc60eb576"> 
+    <img src="https://i.pinimg.com/564x/be/f6/9b/bef69bd1be54b179d154caccc1fca9cf.jpg"> 
 
 5. Stage your changes and commit
 
