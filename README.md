@@ -10,6 +10,9 @@ We Create a Fully Functional Website Under HactoberFest
  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
   
 </div>
+div align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z77cA0sA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1iciy9ywvafaw72pa0v.png" alt="hacktoberfest22">
+</div>
 
 For the quick start, you can follow the steps below:
 
